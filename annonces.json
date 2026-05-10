@@ -1,14 +1,26 @@
 {
   "annonces": [
     {
-      "id": "ukit_promo_01",
-      "title": "Affiche le prochain event de ton asso",
+      "id": "01",
+      "title": "Test annonce 1",
       "issuer_name": "L'équipe UKit",
       "info_label": "Espace 100% gratuit du 20 au 26 juin 2024 seulement réservez vosplaces",
       "long_desc": "Tu fais partie d'un BDE ou d'une association etudiante. Fais la promo de ta prochaine soiree, permanence ou conference directement sur le dashboard de l'application. Remplis le formulaire en cliquant sur le bouton ci-dessous, on s'occupe de la mise en ligne.",
       "image_url": "https://cdn.jsdelivr.net/gh/KAE-Lab/ukit-data@main/images/ukit.png",
       "cta_text": "Proposer mon annonce",
       "cta_link": "https://ukit-bordeaux.fr",
+      "is_active": true,
+      "expires_at": "2099-12-31T23:59:59Z"
+    },
+    {
+      "id": "02",
+      "title": "Test annonce 2",
+      "issuer_name": "Crous Bordeaux",
+      "info_label": "25-26 septembre (100% gratuit)",
+      "long_desc": "La 18e édition se déroulera les 25 et 26 septembre 2025 à Pessac, point central du festival. Sur scène, une diversité de styles s’annonce, du rap au rock hybride, en passant par l’électro et les nouvelles sonorités urbaines. Parmi les noms attendus, on retrouve Lia Moon & Rafal, Angine, Jyeuhair, Jewel Usain, Olkan & La Vipère Rouge, Amandine, Yoa, La Cycloblaster, Romane Santarelli, Yasashii, Cruzcampo, Crok Bitume, DJ Nightslayer, Tøma, Magavoïma et Joyboy. Une programmation qui illustre parfaitement la richesse musicale du moment, entre artistes locaux prometteurs et figures déjà repérées sur les scènes nationales. Chaque concert est pensé pour surprendre, donner de l’énergie et créer un moment collectif fort.",
+      "image_url": "https://cdn.jsdelivr.net/gh/KAE-Lab/ukit-data@main/images/campulsations2025.png",
+      "cta_text": "",
+      "cta_link": "",
       "is_active": true,
       "expires_at": "2099-12-31T23:59:59Z"
     }
